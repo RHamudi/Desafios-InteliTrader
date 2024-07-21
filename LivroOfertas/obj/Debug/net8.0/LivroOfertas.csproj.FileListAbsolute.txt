@@ -1,0 +1,15 @@
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\bin\Debug\net8.0\LivroOfertas.exe
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\bin\Debug\net8.0\LivroOfertas.deps.json
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\bin\Debug\net8.0\LivroOfertas.runtimeconfig.json
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\bin\Debug\net8.0\LivroOfertas.dll
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\bin\Debug\net8.0\LivroOfertas.pdb
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.AssemblyInfoInputs.cache
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.AssemblyInfo.cs
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.csproj.CoreCompileInputs.cache
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.sourcelink.json
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.dll
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\refint\LivroOfertas.dll
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.pdb
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\LivroOfertas.genruntimeconfig.cache
+C:\Repositories\Desafios-InteliTrader\LivroOfertas\obj\Debug\net8.0\ref\LivroOfertas.dll
