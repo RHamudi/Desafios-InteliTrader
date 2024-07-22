@@ -34,6 +34,7 @@ void LivroOfertas(string logs)
             }
         }
     }
+
     foreach (var item in ReindexarDicionario(livrosOfertas))
     {
         int posicao = item.Key;

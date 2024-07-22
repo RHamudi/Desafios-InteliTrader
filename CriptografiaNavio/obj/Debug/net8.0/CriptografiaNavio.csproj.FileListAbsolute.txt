@@ -1,0 +1,15 @@
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.AssemblyInfoInputs.cache
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.AssemblyInfo.cs
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.csproj.CoreCompileInputs.cache
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.sourcelink.json
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\bin\Debug\net8.0\CriptografiaNavio.exe
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\bin\Debug\net8.0\CriptografiaNavio.deps.json
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\bin\Debug\net8.0\CriptografiaNavio.runtimeconfig.json
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\bin\Debug\net8.0\CriptografiaNavio.dll
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\bin\Debug\net8.0\CriptografiaNavio.pdb
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.dll
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\refint\CriptografiaNavio.dll
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.pdb
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\CriptografiaNavio.genruntimeconfig.cache
+C:\Repositories\Desafios-InteliTrader\CriptografiaNavio\obj\Debug\net8.0\ref\CriptografiaNavio.dll
