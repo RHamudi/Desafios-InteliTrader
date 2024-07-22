@@ -1,4 +1,9 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Globalization;
+
 int[] array1 = new int[] { -1, 5, 2, 9, 23, 67 };
 int[] array2 = new int[] { 26, 34, 4, 67, 32, 2 };
 

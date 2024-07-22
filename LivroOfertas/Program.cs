@@ -1,4 +1,9 @@
-﻿using System.Globalization;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Globalization;
+
 
 string input = "12\r\n1,0,15.4,50\r\n2,0,15.5,50\r\n2,2,0,0\r\n2,0,15.4,10\r\n3,0,15.9,30\r\n3,1,0,20\r\n4,0,16.50,200\r\n5,0,17.00,100\r\n5,0,16.59,20\r\n6,2,0,0\r\n1,2,0,0\r\n2,1,15.6,0";
 
